@@ -1,0 +1,19 @@
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/walk/lyova_walk.avi	walk
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/walk/ido_walk.avi	walk
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/walk/eli_walk.avi	walk
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/walk/moshe_walk.avi	walk
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/walk/lena_walk1.avi	walk
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/walk/lena_walk2.avi	walk
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/walk/shahar_walk.avi	walk
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/bend/ido_bend.avi	bend
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/bend/lena_bend.avi	bend
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/bend/eli_bend.avi	bend
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/bend/ira_bend.avi	bend
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/bend/denis_bend.avi	bend
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/bend/shahar_bend.avi	bend
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/jump in place/eli_pjump.avi	jump in place
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/jump in place/denis_pjump.avi	jump in place
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/jump in place/daria_pjump.avi	jump in place
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/jump in place/moshe_pjump.avi	jump in place
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/jump in place/ira_pjump.avi	jump in place
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/jump in place/lyova_pjump.avi	jump in place

@@ -1,0 +1,6 @@
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/walk/daria_walk.avi	walk
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/walk/denis_walk.avi	walk
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/bend/daria_bend.avi	bend
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/bend/lyova_bend.avi	bend
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/jump in place/ido_pjump.avi	jump in place
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/jump in place/shahar_pjump.avi	jump in place

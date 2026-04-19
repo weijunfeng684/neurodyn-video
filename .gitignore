@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.mpl_cache/
+.DS_Store
+
+data/processed/
+data/plot_cache/
+
+outputs/*.pt
+outputs/*.pth

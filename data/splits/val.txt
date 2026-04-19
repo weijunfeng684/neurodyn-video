@@ -1,0 +1,3 @@
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/walk/ira_walk.avi	walk
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/bend/moshe_bend.avi	bend
+/Users/weijunfeng684gmail.com/Desktop/weizmann_video_data/Weizmann Dataset/jump in place/lena_pjump.avi	jump in place
