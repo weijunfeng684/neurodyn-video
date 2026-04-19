@@ -98,7 +98,7 @@ This allows the project to compare not only classification accuracy, but also th
 | Feature type | Temporal model | Test accuracy |
 |---|---|---:|
 | Handcrafted temporal features | GRU | 0.3333 |
-| ResNet18 frame embeddings | GRU | 1.0000 |
+| ResNet18 frame embeddings | GRU | 0.9963 |
 
 ### Interpretation
 
